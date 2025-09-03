@@ -1,0 +1,1 @@
+This project is a Ramdom Joke generator using API and JS DOM.
